@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+artifacts/*.joblib
+artifacts/*.png
+artifacts/metrics.json
+.DS_Store
